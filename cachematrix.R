@@ -1,7 +1,7 @@
 ## These are a set of two function that compute the inverse of a matrix
 ## and cache the result for subsequent uses
 ##
-## Exemple of use :
+## Example of use :
 ## > mx <- matrix(data=1:4, nrow=2)
 ## > mx
 ##      [,1] [,2]
